@@ -3,11 +3,10 @@ Super simple api to get results from http://whoismyrepresentative.com/api
 
 #Installation
 
-* Install node (v10.x)
-* Run `npm install`
+* Install node (v6+)
+* Run `npm install` or `yarn`
 * Run `npm start`
 * Enjoy immensely.
-
 
 ###Available endpoints: 
 
