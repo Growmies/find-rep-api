@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/hillmanov/find-rep-api/issues"
   },
-  "homepage": "https://github.com/hillmanov/find-rep-api"
+  "homepage": "https://github.com/hillmanov/find-rep-api",
+  "dependencies": {
+    "cors": "^2.8.1",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
 }
