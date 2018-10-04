@@ -9,12 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hillmanov/find-rep-api.git"
+    "url": "https://github.com/growmies/find-rep-api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hillmanov/find-rep-api/issues"
+    "url": "https://github.com/growmies/find-rep-api/issues"
   },
-  "homepage": "https://github.com/hillmanov/find-rep-api"
+  "homepage": "https://github.com/growmies/find-rep-api",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "request": "^2.88.0"
+  }
 }
